@@ -1,0 +1,18 @@
+{
+  "name": "playground",
+  "description": "",
+  "main": "program.js",
+  "authors": [
+    "frydreise <adreise@pureprofile.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/frydreise/playground",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
